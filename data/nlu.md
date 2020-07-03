@@ -90,6 +90,7 @@
 - hello robot
 - hi
 - Hey there
+- hello
 
 ## intent:inform
 - [Sitka](location)
@@ -182,6 +183,10 @@
 - a [hospital](facility_type)
 - a [nursing home](facility_type)
 - /inform{"facility_type": "xubh-q36u"}
+- [10026](location)
+- bay area
+- [Lagos](location)
+- carlifornia
 
 ## intent:search_provider
 - i need a [hospital](facility_type)
